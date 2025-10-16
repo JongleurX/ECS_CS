@@ -1,0 +1,113 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Blackjack - Keyboard",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/py_games/blackjack/play_keyboard.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/py_games/blackjack",
+            "justMyCode": true
+        },
+        {
+            "name": "Car Race",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/py_games/car_race/car_race.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/py_games/car_race",
+            "justMyCode": true
+        },
+        {
+            "name": "GoGoStop - Play",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/py_games/gogostop/play.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/py_games/gogostop",
+            "justMyCode": true
+        },
+        {
+            "name": "Ice Tag",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/py_games/icetag/icetag.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/py_games/icetag",
+            "justMyCode": true
+        },
+        {
+            "name": "Lock Combo",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/py_games/lock_combo/lock_combo.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/py_games/lock_combo",
+            "justMyCode": true
+        },
+        {
+            "name": "Lunar Lander - Keyboard",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/py_games/lunar_lander/play_keyboard.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/py_games/lunar_lander",
+            "justMyCode": true
+        },
+        {
+            "name": "Nim 3D - Basic",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/py_games/nim_3d/play_basic_mode.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/py_games/nim_3d",
+            "justMyCode": true
+        },
+        {
+            "name": "Nutgather - Keyboard",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/py_games/nutgather/play_key.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/py_games/nutgather",
+            "justMyCode": true
+        },
+        {
+            "name": "Pathfinder",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/py_games/pathfinder/pathfinder.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/py_games/pathfinder",
+            "justMyCode": true
+        },
+        {
+            "name": "Pong",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/py_games/pong/pong.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/py_games/pong",
+            "justMyCode": true
+        },
+        {
+            "name": "Snake",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/py_games/snake/snake.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/py_games/snake",
+            "justMyCode": true
+        },
+        {
+            "name": "Tetris",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/py_games/tetris/tetris.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/py_games/tetris",
+            "justMyCode": true
+        }
+    ]
+}
